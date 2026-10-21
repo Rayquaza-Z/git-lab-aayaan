@@ -11,4 +11,6 @@ I am Aayaan Singh , a student at UpGrad School Of Technology , aspiring to be a 
 - Chextention : a web extention that ensures you do not stray from your work
 ## Contact
 - Email : aayaansingh404@gmail.com
--
+##  Social Links
+- Github : https://github.com/Rayquaza-Z
+- LeetCode : https://leetcode.com/u/Rayquaza_Z/
