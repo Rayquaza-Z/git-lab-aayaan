@@ -6,3 +6,6 @@ I am Aayaan Singh , a student at UpGrad School Of Technology , aspiring to be a 
 - Communication
 - Problem Solving
 - Basic Git
+## Projects
+- cli_galaga : a terminal based recreation of galaga video game , utilizes python (curses lib)
+- Chextention : a web extention that ensures you do not stray from your work
