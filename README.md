@@ -14,3 +14,6 @@ I am Aayaan Singh , a student at UpGrad School Of Technology , aspiring to be a 
 ##  Social Links
 - Github : https://github.com/Rayquaza-Z
 - LeetCode : https://leetcode.com/u/Rayquaza_Z/
+## Hobbies
+- PLaying squash
+- Internet Surfing
